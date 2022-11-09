@@ -6,7 +6,7 @@
 int main()
 {
     std::cout << "Hello Git NewWorld!\n";
-    std::cout << "New Branch changed\n";
+    std::cout << "GitHub Clone changed\n";
     std::cout << "third branch\n";
 }
 
